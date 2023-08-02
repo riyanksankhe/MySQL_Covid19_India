@@ -3,7 +3,7 @@ use Covid_database;
 
                                              -- -- -- -- Importing Data -- -- -- -- 
 
-														 -- Table 1 --
+													     -- Table 1 --
 
 CREATE TABLE covid_19_india (
   Sno INT PRIMARY KEY,
