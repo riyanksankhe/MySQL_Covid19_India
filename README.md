@@ -19,10 +19,12 @@ In the final part of the project, we delve into the StatewiseTestingDetails.csv 
 1. Gain insights into the spread and impact of COVID-19 across different states and union territories in India.
 2. Assess the effectiveness of vaccination efforts in curbing the pandemic.
 3. Understand the testing efforts and their impact on controlling COVID-19 transmission.
-4. Present the findings through data visualizations and meaningful interpretations.
-5. Share the project and analysis on GitHub to facilitate collaboration and knowledge sharing.
+4. Share the project and analysis on GitHub to facilitate collaboration and knowledge sharing.
+
 
 *By dividing the project into these three parts and uploading it to GitHub, it becomes easily accessible and provides valuable insights for anyone interested in understanding the COVID-19 situation in India. Additionally, this project serves as a foundation for further analysis.*
+
+
 ---
 ## COVID-19 Analysis:
 
