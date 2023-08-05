@@ -24,8 +24,11 @@ In the final part of the project, we delve into the StatewiseTestingDetails.csv 
 
 *By dividing the project into these three parts and uploading it to GitHub, it becomes easily accessible and provides valuable insights for anyone interested in understanding the COVID-19 situation in India. Additionally, this project serves as a foundation for further analysis.*
 
-
 ---
+
+**Below are all the outputs of the queries:** 
+
+
 ## COVID-19 Analysis:
 
 ### (1) What is the total number of confirmed cases, recoveries, and deaths in each state/union territory?
